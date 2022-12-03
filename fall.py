@@ -10,7 +10,7 @@ t2 = t
 
 # clacule de le hauteur du puit
 h_calcule1 = ((v**2)/(2*g))*(-1+sqrt(1+2*g*t/v))**2
-print("\nla valeur calculer de la profondeur du puits est " + str(h_calcule1) + " m")
+print("\nla valeur calculé de la profondeur du puit est " + str(h_calcule1) + " m")
 
 # approximation de la hauteur du puis par une boucle
 print("\nles valeurs approchées par boucle sont:")
