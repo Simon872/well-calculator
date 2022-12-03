@@ -5,4 +5,3 @@ for i in range(1000):
   h = float((9.81*(t2)**2)/2)
   t2 = t - (h/340)
   print(str(h) + " m")
-print("je suis le plus beau")
